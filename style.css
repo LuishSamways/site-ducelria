@@ -130,7 +130,10 @@ video {
 @media( max-width: 1000px){
     .principal{
         flex-direction: column;
-    }
-     
+            }
+     .paragrafo-imagem{
+        width: 325px;
+     }
+        
 
 }
